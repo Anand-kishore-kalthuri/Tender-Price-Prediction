@@ -83,18 +83,22 @@ Mean Squared Error: X.XX
 
 📊 Key Insights
 Top 15 Railway Locations by majority:
+
 Visualized using pie charts and bar plots.
 
 
 Analysis of Awarded Categories:
+
 Count plot to identify the frequency of different categories.
 
 
 Numerical Statistics:
+
 Skewness, kurtosis, variance, and standard deviation of key features.
 
 
 Missing Values:
+
 Handled using appropriate imputation techniques.
 
 
