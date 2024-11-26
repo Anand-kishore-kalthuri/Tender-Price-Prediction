@@ -1,0 +1,35 @@
+Model: LinearRegression
+Mean Squared Error: 23973690.123405002
+Root Mean Squared Error: 4896.293508706867
+R2 Score: 0.9806752937273508
+Mean Absolute Percentage Error: 0.06092884312230245
+------------------------------
+Model: DecisionTreeRegressor
+Mean Squared Error: 684702282.841412
+Root Mean Squared Error: 26166.816444524007
+R2 Score: 0.44807535126997966
+Mean Absolute Percentage Error: 0.08656794072461656
+------------------------------
+Model: RandomForestRegressor
+Mean Squared Error: 460222420.13491577
+Root Mean Squared Error: 21452.79515902102
+R2 Score: 0.6290240241108185
+Mean Absolute Percentage Error: 0.06691323947240188
+------------------------------
+Model: GradientBoostingRegressor
+Mean Squared Error: 578050929.6715589
+Root Mean Squared Error: 24042.689734544238
+R2 Score: 0.5340448479548421
+Mean Absolute Percentage Error: 0.0633272972958677
+------------------------------
+Model: SVR
+Mean Squared Error: 1247696291.9390354
+Root Mean Squared Error: 35322.744682980614
+R2 Score: -0.005742721920645177
+Mean Absolute Percentage Error: 0.25794731752699346
+------------------------------
+LinearRegression: MSE=23973690.123405002, R2=0.9806752937273508
+DecisionTreeRegressor: MSE=684702282.841412, R2=0.44807535126997966
+RandomForestRegressor: MSE=460222420.13491577, R2=0.6290240241108185
+GradientBoostingRegressor: MSE=578050929.6715589, R2=0.5340448479548421
+SVR: MSE=1247696291.9390354, R2=-0.005742721920645177
