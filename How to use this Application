@@ -1,0 +1,30 @@
+💡 Usage Example
+
+
+Open the application in Terminal from same location:
+
+Copy code
+       streamlit run app.py
+
+
+
+Enter feature values:
+
+Example:
+
+Railway Location: BHOPAL
+
+
+Nature: Execution
+
+
+Basic: 2000
+
+
+Category: 60 Kg
+
+
+Qty: 100
+
+
+Get predicted L1 Price in real time.
